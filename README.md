@@ -5,8 +5,9 @@ More Please is a static site generator in the style of Link-In-Bio/Linktree for 
 
 ## User Stories
 As a user I want to: 
-- Login in a create an account with a unique URL (moreplease.link/<username>)
-- Add a variety of media to my site generator, including: Profile picture, bio, and links 
+- Login in a create an account with a unique URL (moreplease.link/{username})
+- Add a variety of media to my site generator, including: 
+    Profile picture, bio, theme settings and links 
 - Preview the site as its being generated
 - Style the site with unique configuration, including: Background color, Font Family, Font Color, Button Style
 - Save everything and create my styled webpage, hosted live
