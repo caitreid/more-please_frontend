@@ -73,3 +73,6 @@ As a user I want to:
 
 #### Create Theme
 <img src="./private/page_4.png" />
+
+#### Preview of webpage
+<img src="./private/mockup.png" />
