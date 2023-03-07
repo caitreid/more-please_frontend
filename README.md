@@ -11,10 +11,11 @@ As a user I want to:
 - Preview the site as its being generated
 - Style the site with unique configuration, including: Background color, Font Family, Font Color, Button Style
 - Save everything and create my styled webpage, hosted live
-
+---
+<img src="./private/ERD.png"/>
 ---
 ## Models
-
+#### Overview
 - User has one Profile
 - Profile has many Links
 - Profile has one Theme
@@ -25,7 +26,7 @@ As a user I want to:
 * Username (Text)
 
 ### Profile
-* Account Image (Image)
+* Picture (Image)
 * Title (Text)
 * Bio (Text)
 * Theme (Foreign Key reference)
@@ -50,5 +51,9 @@ As a user I want to:
 
 ## Technologies
 * Python/Django Backend for speed of development
-* React Frontend for automatic rendering of styled components
+* React Frontend for automatic rendering of styled components to the user as webpage is being designed
+* Materialize
 * SASS because it makes everything better.
+
+
+---
