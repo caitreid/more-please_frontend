@@ -49,4 +49,6 @@ As a user I want to:
 ---
 
 ## Technologies
-Python/Django Backend for speed of development, React Frontend for automatic rendering of styled components. SASS because it makes everything better.
+* Python/Django Backend for speed of development
+* React Frontend for automatic rendering of styled components
+* SASS because it makes everything better.
