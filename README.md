@@ -52,7 +52,8 @@ As a user I want to:
 ## Technologies
 * Python/Django Backend for speed of development
 * React Frontend for automatic rendering of styled components to the user as webpage is being designed
-* Materialize
+* AWS S3 Buckets for Image uploading
+* Materialize for starter component library
 * SASS because it makes everything better.
 
 
@@ -60,6 +61,15 @@ As a user I want to:
 
 ## Wireframe
 
-<img src="./private/main.png" />
-<img src="./private/login.png" />
-<img src="./private/design.png" />
+#### Landing Page
+<img src="./private/page_1.png" />
+
+#### Login / Sign up
+<img src="./private/page_2.png" />
+
+#### Create Links
+
+<img src="./private/page_3.png" />
+
+#### Create Theme
+<img src="./private/page_4.png" />
