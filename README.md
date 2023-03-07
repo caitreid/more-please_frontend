@@ -76,3 +76,12 @@ As a user I want to:
 
 #### Preview of webpage
 <img src="./private/mockup.png" />
+
+---
+
+## Stretch goals
+
+I really want to focus on user experience in the app while meeting all the basic requirements.
+I want to user test the app for pain points with friends, and try to see what could be improved based on their unguided navigation of the app. It should be good enough that friends to use it for their social media profiles.
+
+Stretch goal would be to have paid features that are hidden behind a paywall. I would use Stripe or another payment app to integrate users as "premium" subscribers and actually get $$ for this service.
